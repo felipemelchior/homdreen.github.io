@@ -20,14 +20,15 @@ html, body {
 
 header {
 	width: 100%;
-	height: 80vh;
-	min-height: 800px;
-	padding: 40px 2%;
-	/*background-color: #ccc;*/
+	padding: 35px 2%;
+	background-color: #1d0044;
 }
 
 header .logo {
 	float: left;
+	font-weight: bold;
+	font-size: 17px;
+	color: white;
 }
 
 header nav {
@@ -45,6 +46,6 @@ header nav li {
 
 header nav li a {
 	text-decoration: none;
-	color: black;
+	color: white;
 	font-weight: bold;
 }
